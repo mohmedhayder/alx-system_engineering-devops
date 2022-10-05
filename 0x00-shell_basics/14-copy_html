@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.html" -type f | xargs cp -uvt ..
+find . -name "*.html" -type f | xargs cp -ut ..
