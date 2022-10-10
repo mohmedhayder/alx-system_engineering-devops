@@ -1,7 +1,0 @@
-total 20
--rwxr--r-- 1 root root 32 Oct 10 02:29 0-hello_world
--rwxr--r-- 1 root root 28 Oct 10 02:33 2-hellofile
--rwxr--r-- 1 root root 35 Oct 10 02:43 4-lastlines
--rwxr--r-- 1 root root 35 Oct 10 02:45 5-firstlines
--rw-r--r-- 1 root root  0 Oct 10 02:48 ls_cwd_content
--rw-r--r-- 1 root root 39 Oct 10 02:23 README.md
